@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click', function () {
-    alert('Ya sabia c;')
+    alert('Ya sabia, jeje, este es mi numero: 3334615222 c;')
 
 })
 
